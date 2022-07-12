@@ -1,7 +1,9 @@
 ![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 <h1 align="center">Hi, I'm Colin</h1>
 <h3 align="center">I have recently graduated from Napier University with a distinction in BSc Software Engineering. I am a full stack developer focusing mainly on the MERN stack.</h3>
-<p align="left"> <img src="https://static.vecteezy.com/system/resources/thumbnails/002/178/149/small/developer-working-on-code-free-vector.jpg" alt="colinswan" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://st4.depositphotos.com/1001599/38657/v/380/depositphotos_386576880-stock-illustration-mobile-application-development-programming-languages.jpg?forcejpeg=true">
+
 
 - 🔭 I’m currently working on **Full stack MERN projects**
 
