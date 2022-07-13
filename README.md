@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+![MasterHead](https://github.com/colinswan/colinswan/blob/main/png_20220713_100701_0000.png)
 <h1 align="center">Hi, I'm Colin</h1>
 <h3 align="center">I have recently graduated from Napier University with a distinction in BSc Software Engineering. I am a full stack developer focusing mainly on the MERN stack.</h3>
 
